@@ -2,7 +2,7 @@
 
 An interactive web-based application for creating and taking quizzes, built as part of the **GrowthLink Web Development Assignment**.  
 
-🔗 **Live Demo:** [https://quiz-maker-growthlink.netlify.app/](https://quiz-maker-growthlink.netlify.app/)  
+🔗 **Live Demo:**  [https://quiz-maker-growth-link.netlify.app/](https://quiz-maker-growth-link.netlify.app/)
 
 ![Quiz Maker Preview](https://via.placeholder.com/800x400?text=Quiz+Maker+Screenshot) *(Consider adding an actual screenshot here)*  
 
